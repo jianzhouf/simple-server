@@ -2,7 +2,7 @@
   "name": "@oli/simple-server",
   "version": "1.0.0",
   "description": "静态资源服务器",
-  "homepage": "",
+  "homepage": "https://github.com/jianzhouf/simple-server",
   "main": "index.js",
   "bin": {
     "simple-server": "index.js"
